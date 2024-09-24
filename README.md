@@ -1,1 +1,1 @@
-The files show basic implementation of Java and MongoDB
+The files show basic implementation of MongoDB
